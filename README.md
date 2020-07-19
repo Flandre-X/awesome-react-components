@@ -243,7 +243,7 @@ _Display a control element to paginate_
 
 ### Markdown Viewer
 
-_Display parsed markdow source_
+_Display parsed markdown source_
 
 - [react-markdown](https://github.com/rexxars/react-markdown) - Render Markdown as React components.
 
